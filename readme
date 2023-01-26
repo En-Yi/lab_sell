@@ -1,0 +1,13 @@
+2021/05/23
+## This is the readme file for the DBS lab: sell
+
+	每個 php 檔最上方介紹該份檔案主要的功能。
+
+資料夾:
+
+	data_table: 放置所有用到的資料表。
+	images: 放置商品或網頁用到的圖片。
+	.sass-cache, css, fonts, img, js, original-master, scss: 跟模板有關的檔案。
+	OwlCarousel2-2.3.4: 動態展示圖片用到的套件。
+	PHPMailer-5.2.9: 這次 lab 中用到的 寄信套件。
+
